@@ -8,6 +8,10 @@
 
 ###
 
+<h4 data-importer="text" align="left">💻Sou estudante de Ciência da Computação, atualmente cursando o 1º período na Estácio.<br><br>📚 Atualmente estou estudando:<br>- Lógica de programação<br>- Python<br>- HTML e CSS<br>- Banco de Dados (MySQL)<br>- Programação Orientada a Objetos (POO)<br>- Fundamentos da computação<br>- Desenvolvimento (Web)<br><br>🚀 Meus objetivos:<br>- Desenvolver minhas habilidades como programador.<br>- Criar projetos práticos e ampliar meu portfólio.<br>- Aprender novas tecnologias e linguagens de programação.<br>- Conquistar minha primeira oportunidade profissional como desenvolvedor.<br><br>🎯 Estou em busca do meu primeiro emprego ou estágio na área de desenvolvimento, com muita disposição para aprender, crescer profissionalmente e contribuir com novos projetos.<br><br>📫 Vamos nos conectar e compartilhar conhecimento!</h4>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -32,11 +36,11 @@
   <a href="https://www.linkedin.com/in/luiz-carlos-batista-64082123a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/Zdkxyzz0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
   <a href="https://www.instagram.com/carllos.mxyzz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/Zdkxyzz0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
